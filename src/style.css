@@ -29,9 +29,6 @@
     height: auto;
 }
 
-.player>.strength {
-    font-size: 3em;
-}
 
 #score {
     font-size: 3em;
@@ -41,4 +38,7 @@
 .footer{
     margin-left: 80px;
     font-size: 18px;
+}
+.strength{
+    font-size: 30px;
 }
